@@ -1,0 +1,49 @@
+-Compared file from: EnoshTerm.txt
+-Shared items length:194
+-Difference in words: 
+peleg
+vast
+rope
+creature
+bone
+goe
+
+*---------------------------------------------------------------------------*
+-Compared file from: Kyle2Term.txt
+-Shared items length:183
+-Difference in words: 
+wave
+peleg
+whalemen
+vast
+looke
+rope
+bone
+leave
+creature
+rolle
+turne
+calle
+chase
+morne
+goe
+saile
+general
+
+*---------------------------------------------------------------------------*
+-Compared file from: KyleTerm.txt
+-Shared items length:194
+-Difference in words: 
+vast
+rope
+creature
+bone
+goe
+find
+
+*---------------------------------------------------------------------------*
+-Compared file from: LuckasTerm.txt
+-Shared items length:200
+-Difference in words: 
+
+*---------------------------------------------------------------------------*
