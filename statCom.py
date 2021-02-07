@@ -10,9 +10,9 @@ print("Got all other people's file's name:")
 #debSta
 print(termFiles)
 
-mFileName="t.txt" # Name your own file here.
+myFileName="t.txt" # Name your own file here.
                   # Warning: avoid iclude a substring: "term" 'cuz used as sentinel for other ppl's file
-myfile=open(mFileName,"r")
+myfile=open(myFileName,"r")
 outputFileStream=open("[Log1]statisticForPartB.txt","w")
 outputFileStream2=open("[Log2]frequencyDifferenceDetail.txt","w")
 
