@@ -1,68 +1,106 @@
--Compared file from: EnochTerm.txt
--Shared items length:194
+-Compared file from: BanjaminTerms.txt
+-Shared items length:200
 -Difference in words: 
-vast
-rope
-bone
-goe
-peleg
-creature
 
 *---------------------------------------------------------------------------*
--Compared file from: Kyle2Term.txt
--Shared items length:183
+-Compared file from: EnochTerms .txt
+-Shared items length:200
 -Difference in words: 
-looke
-morne
-rolle
-wave
-vast
-rope
-whalemen
-turne
-saile
-bone
-goe
-peleg
-calle
-general
-creature
-chase
-leave
 
 *---------------------------------------------------------------------------*
 -Compared file from: KyleTerm.txt
--Shared items length:194
--Difference in words: 
-find
-vast
-rope
-bone
-goe
-creature
-
-*---------------------------------------------------------------------------*
--Compared file from: LuckasTerm.txt
 -Shared items length:200
 -Difference in words: 
 
 *---------------------------------------------------------------------------*
 -Compared file from: ZhujiangTerms.txt
--Shared items length:186
+-Shared items length:197
 -Difference in words: 
-looke
-morne
-rolle
-vast
-ground
-whalemen
-turne
-saile
-goe
 crie
-peleg
-calle
-general
-chase
+near
+hear
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old2]ZhujiangTerms.txt
+-Shared items length:197
+-Difference in words: 
+crie
+near
+hear
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old]AlexandurTerms.txt
+-Shared items length:200
+-Difference in words: 
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old]EnochTerm.txt
+-Shared items length:188
+-Difference in words: 
+near
+form
+morn
+whal
+kill
+bear
+roll
+pass
+call
+hear
+dart
+pull
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old]KyleTerm.txt
+-Shared items length:187
+-Difference in words: 
+near
+form
+morn
+whal
+kill
+bear
+roll
+find
+pass
+call
+hear
+dart
+pull
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old]Luckas1Term.txt
+-Shared items length:183
+-Difference in words: 
+near
+form
+morn
+whal
+whales
+kill
+bear
+roll
+pass
+seas
+eyes
+call
+hear
+times
+dart
+pull
+go
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old]ZhujiangTerms.txt
+-Shared items length:192
+-Difference in words: 
+near
+whales
+crie
+seas
+eyes
+hear
+times
+ground
 
 *---------------------------------------------------------------------------*
