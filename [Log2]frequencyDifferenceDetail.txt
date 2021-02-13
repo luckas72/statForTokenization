@@ -1,9 +1,31 @@
--Compared file from: BanjaminTerms.txt
+-Compared file from: AlexandruTerms.txt
 Frequency difference:
+s -1
+man -3
+tell -19
+don -1
+calle 129
+rolle 79
+whalemen 72
+wave 72
+general 72
 
 *---------------------------------------------------------------------------*
--Compared file from: EnochTerms .txt
+-Compared file from: BanjaminTerms.txt
 Frequency difference:
+tell -19
+calle 129
+rolle 79
+whalemen 72
+general 72
+wave 72
+
+*---------------------------------------------------------------------------*
+-Compared file from: EnochTerms.txt
+Frequency difference:
+s -1
+man -3
+don -1
 
 *---------------------------------------------------------------------------*
 -Compared file from: KyleTerm.txt
@@ -17,16 +39,32 @@ take -1
 right -1
 oh -2
 aye -4
+tell -19
 don -1
 point -1
+calle 129
 soon -1
 shall -1
 turn -3
 moby -1
+rolle 79
+wave 72
+whalemen 72
 yes -3
+general 72
 
 *---------------------------------------------------------------------------*
--Compared file from: ZhujiangTerms.txt
+-Compared file from: LuckasTerm.txt
+Frequency difference:
+tell -19
+calle 129
+rolle 79
+wave 72
+whalemen 72
+general 72
+
+*---------------------------------------------------------------------------*
+-Compared file from: ZhujiangTerm.txt
 Frequency difference:
 s -1
 man -16
@@ -36,21 +74,36 @@ look -3
 take -1
 right -1
 oh -2
-crie 155
 aye -4
+tell -19
 don -3
 point -1
+calle 129
 soon -1
 leg -3
 shall -1
 turn -3
 moby -1
 set -13
+rolle 79
 bed -2
 put -16
+whalemen 72
+wave 72
 yes -3
+general 72
 near 70
 hear 70
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old2]EnochTerms .txt
+Frequency difference:
+tell -19
+calle 129
+rolle 79
+whalemen 72
+wave 72
+general 72
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old2]ZhujiangTerms.txt
@@ -65,24 +118,82 @@ right -1
 oh -2
 crie 155
 aye -4
+tell -19
 don -3
 point -1
+calle 129
 soon -1
 leg -3
 shall -1
 turn -3
 moby -1
 set -13
+rolle 79
 bed -2
 put -16
+whalemen 72
+wave 72
 yes -3
+general 72
 near 70
 hear 70
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old3]ZhujiangTerms.txt
+Frequency difference:
+s -1
+man -16
+say -1
+come -2
+look -3
+take -1
+right -1
+oh -2
+crie 155
+aye -4
+tell -19
+don -3
+point -1
+calle 129
+soon -1
+leg -3
+shall -1
+turn -3
+moby -1
+set -13
+rolle 79
+bed -2
+put -16
+whalemen 72
+wave 72
+yes -3
+general 72
+near 70
+hear 70
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old4]EnochTerms .txt
+Frequency difference:
+s -1
+man -3
+tell -19
+don -1
+calle 129
+rolle 79
+whalemen 72
+wave 72
+general 72
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]AlexandurTerms.txt
 Frequency difference:
 cri -17
+tell -19
+calle 129
+rolle 79
+whalemen 72
+wave 72
+general 72
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]EnochTerm.txt
@@ -102,11 +213,9 @@ turn 116
 part 10
 know 19
 work 23
-call 196
 back 12
 fish 3
 right -1
-tell 19
 mast 1
 oh -2
 aye -4
@@ -116,7 +225,6 @@ place -44
 point -1
 whal 133
 soon -1
-roll 111
 feel 36
 mean 21
 open 24
@@ -124,17 +232,14 @@ land 15
 mind 6
 form 98
 shall -1
-pass 98
 wind 6
 mark 24
 keep 15
 tail 3
 moby -1
-pull 86
 hear 83
 dart 83
 near 78
-kill 78
 morn 77
 bear 75
 
@@ -156,11 +261,9 @@ turn 116
 part 10
 know 19
 work 23
-call 196
 back 12
 fish 3
 right -1
-tell 19
 mast 1
 oh -2
 aye -4
@@ -170,7 +273,6 @@ place -44
 point -1
 whal 133
 soon -1
-roll 111
 feel 36
 mean 21
 open 24
@@ -178,16 +280,13 @@ land 15
 mind 6
 shall -1
 form 98
-pass 98
 wind 6
 mark 24
 keep 15
 tail 3
 moby -1
-pull 86
 dart 83
 hear 83
-kill 78
 near 78
 morn 77
 bear 75
@@ -217,14 +316,12 @@ side -28
 part 10
 know 19
 work 23
-call 196
 back 13
 take -26
 world 1
 fish 3
 think -2
 line -37
-tell 19
 make -41
 mast 1
 eyes 156
@@ -237,7 +334,7 @@ give -18
 place -65
 eye -138
 times 113
-roll 110
+roll -1
 bow 17
 word 1
 lower -2
@@ -249,7 +346,6 @@ voyage -18
 land 15
 mind 6
 form 98
-pass 98
 spout -7
 wind 6
 mark 24
@@ -260,13 +356,11 @@ lay 6
 go 89
 jaw 1
 seas 87
-pull 86
 dart 83
 hear 83
 name -13
 fire -4
 mate -40
-kill 78
 near 78
 least 1
 morn 76
@@ -299,8 +393,10 @@ oh -2
 crie 155
 aye -4
 live -22
+tell -19
 don -3
 point -1
+calle 129
 soon -1
 leg -3
 give -18
@@ -318,10 +414,13 @@ chase -1
 fire -4
 name -13
 mate -40
+rolle 79
 bed -2
 put -16
 case -25
+whalemen 72
 yes -3
+general 72
 near 70
 hear 70
 ground 70
