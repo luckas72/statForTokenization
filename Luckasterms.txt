@@ -38,6 +38,7 @@ make 201
 line 200
 starbuck 199
 part 196
+call 196
 away 186
 world 185
 thought 185
@@ -57,6 +58,7 @@ fish 170
 live 170
 right 165
 night 162
+tell 162
 mast 158
 crew 158
 oh 157
@@ -64,7 +66,6 @@ aye 155
 sail 148
 goe 144
 air 143
-tell 143
 don 143
 harpooneer 137
 half 137
@@ -78,7 +79,6 @@ came 130
 soon 130
 small 130
 leg 129
-calle 129
 feet 127
 arm 126
 found 123
@@ -94,6 +94,7 @@ harpoon 117
 poor 114
 new 114
 leviathan 113
+roll 111
 flask 110
 body 110
 heard 110
@@ -117,6 +118,7 @@ case 99
 shall 99
 gutenberg 98
 strange 98
+pass 98
 nantucket 97
 ocean 97
 year 97
@@ -148,6 +150,7 @@ jonah 86
 day 86
 fire 86
 board 86
+pull 86
 lay 85
 wild 85
 chase 84
@@ -157,23 +160,25 @@ length 82
 king 82
 hour 82
 watch 81
+vessel 81
 sound 81
 known 80
 young 80
 bed 80
 start 79
-rolle 79
 open 79
 large 79
 speak 79
+reason 79
 ere 79
 keep 79
+kill 78
 follow 78
-leas 77
-instan 77
+instant 77
 bildad 77
 leave 76
 book 76
+least 76
 mouth 76
 creature 76
 beneath 76
@@ -193,8 +198,3 @@ vast 73
 saile 73
 peleg 73
 mark 72
-wave 72
-whalemen 72
-general 72
-near 70
-hear 70

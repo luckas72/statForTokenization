@@ -1,0 +1,31 @@
+For PART A**************************************************
+-Compared file from: tokenized.txt
+-Shared items length:-23
+-Difference in words: 
+calle
+
+c
+
+o
+
+k
+
+datee
+
+
+*---------------------------------------------------------------------------*
+-Compared file from: ZhujiangTokenized.txt
+-Shared items length:-23
+-Difference in words: 
+calle
+
+c
+
+o
+
+k
+
+datee
+
+
+*---------------------------------------------------------------------------*

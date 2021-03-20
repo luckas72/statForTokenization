@@ -1,21 +1,15 @@
 -Compared file from: AlexandruTerms.txt
--Shared items length:195
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-general
-wave
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: BanjaminTerms.txt
--Shared items length:195
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-general
-wave
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: EnochTerms.txt
@@ -24,149 +18,97 @@ rolle
 
 *---------------------------------------------------------------------------*
 -Compared file from: KyleTerm.txt
--Shared items length:195
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-general
-wave
 rolle
+calle
 
 *---------------------------------------------------------------------------*
--Compared file from: LuckasTerm.txt
--Shared items length:195
+-Compared file from: Luckasterms.txt
+-Shared items length:200
 -Difference in words: 
-calle
-whalemen
-general
-wave
-rolle
 
 *---------------------------------------------------------------------------*
 -Compared file from: ZhujiangTerm.txt
--Shared items length:193
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-hear
-general
-wave
-near
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old2]EnochTerms .txt
--Shared items length:195
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-general
-wave
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old2]ZhujiangTerms.txt
--Shared items length:192
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-crie
-hear
-general
-wave
-near
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old3]ZhujiangTerms.txt
--Shared items length:192
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-crie
-hear
-general
-wave
-near
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old4]EnochTerms .txt
--Shared items length:195
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-general
-wave
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]AlexandurTerms.txt
--Shared items length:195
+-Shared items length:198
 -Difference in words: 
-calle
-whalemen
-general
-wave
 rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]EnochTerm.txt
--Shared items length:193
+-Shared items length:199
 -Difference in words: 
 whal
-dart
-hear
-morn
-bear
-form
-near
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]KyleTerm.txt
--Shared items length:192
+-Shared items length:199
 -Difference in words: 
 whal
-dart
-hear
-morn
-bear
-form
-find
-near
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]Luckas1Term.txt
--Shared items length:188
+-Shared items length:194
 -Difference in words: 
-eyes
 whales
+go
+eyes
+times
 whal
 seas
-dart
-form
-hear
-go
-morn
-near
-times
-bear
+
+*---------------------------------------------------------------------------*
+-Compared file from: [Old]LuckasTerm.txt
+-Shared items length:198
+-Difference in words: 
+rolle
+calle
 
 *---------------------------------------------------------------------------*
 -Compared file from: [Old]ZhujiangTerms.txt
--Shared items length:188
+-Shared items length:194
 -Difference in words: 
-eyes
-calle
-whalemen
 whales
-seas
-crie
-hear
-general
-near
+calle
+eyes
 times
+seas
 rolle
-ground
 
 *---------------------------------------------------------------------------*
